@@ -1,0 +1,23 @@
+h1 {
+  color: blue;
+}
+
+p {
+  color: rgb(232, 124, 35);
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+q {
+  color: rgb(47, 246, 57);
+  background-color: #d8f1cf;
+}
+
+ul {
+  list-style-type: none;
+  color: blue;
+  text-decoration: underline;
+}
